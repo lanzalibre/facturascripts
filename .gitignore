@@ -35,3 +35,6 @@ package-lock.json
 # claude
 CLAUDE.md
 /.claude
+
+# Agent files
+scripts/sync_data/
